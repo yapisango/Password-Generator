@@ -1,0 +1,14 @@
+{
+  "name": "Scrim-s049k1vlsr",
+  "description": "https://scrimba.com/s049k1vlsr/head",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
